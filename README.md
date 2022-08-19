@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi, I'm Ssakshi Rai! 👋 👋
 
-
-SakshiRai
 <!--
 Here are some ideas to get you started:
 
