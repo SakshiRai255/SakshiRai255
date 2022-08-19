@@ -1,5 +1,6 @@
-### Hi, I'm Ssakshi Rai! 👋 👋
+### Hi, I'm Ssakshi Rai! 👋 
 
+## I’m a full stack Java Script Deceloper.
 <!--
 Here are some ideas to get you started:
 
